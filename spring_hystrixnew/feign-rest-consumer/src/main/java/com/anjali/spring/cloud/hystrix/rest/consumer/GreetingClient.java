@@ -1,8 +1,5 @@
 package com.anjali.spring.cloud.hystrix.rest.consumer;
 
-/**
- * Created by anjalisatraboina on 5/23/2017.
- */
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
